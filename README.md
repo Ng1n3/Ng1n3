@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ng1n3
+- 👋 Hi, I’m Nagato_Code
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on open source and personal project ideas
