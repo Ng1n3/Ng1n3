@@ -30,6 +30,29 @@ Let's connect on [X](https://x.com/muyiwa_dev) or [LinkedIn](www.linkedin.com/in
 ![](https://img.shields.io/badge/Tools-Sequelize-informational?style=flat&logo=sequelize&logoColor=white&color=1d1f21)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=1d1f21)
 
+## &#x270d; Blog & Writing
+When I'm not coding, I write some tech articles to share a little insight into my work.
+
+- [Top VS Code Extensions as a beginner Web developer](https://medium.com/@muyiwa-dev/top-vs-code-extensions-as-a-beginner-web-developer-in-2023-269fe7e09abf)
+
+## Projects
+- [Notepod-Backend](https://github.com/Ng1n3/notepod-backend)
+- [Notepod-Frontend](https://github.com/Ng1n3/frontend-notepod.xyz)
+
+## &#x1f4c8; GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ng1n3&theme=dark&ring=#fff)](https://git.io/streak-stats)
+
+[![Muyiwa's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Ng1n3&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Ng1n3/github-readme-stats#gh-dark-mode-only)
+
+[![Muyiwa's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ng1n3&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
+<a href="https://github.com/Ng1n3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ng1n3&hide=java,html,css,scss,c,shell,text&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4&hide_progress=true" />
+</a>
+--->
+
 <!---
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=1d1f21)
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=1d1f21)
@@ -40,23 +63,6 @@ Let's connect on [X](https://x.com/muyiwa_dev) or [LinkedIn](www.linkedin.com/in
 ![](https://img.shields.io/badge/Design-Behance-informational?style=flat&logo=behance&logoColor=white&color=1d1f21)
 ![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=1d1f21)
 --->
-
-## &#x270d; Blog & Writing
-When I'm not coding, I write some tech articles to share a little insight into my work.
-
-- [Top VS Code Extensions as a beginner Web developer](https://medium.com/@muyiwa-dev/top-vs-code-extensions-as-a-beginner-web-developer-in-2023-269fe7e09abf)
-
-## &#x1f4c8; GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Muyiwa&theme=dark&ring=#fff)](https://git.io/streak-stats)
-
-[![Muyiwa's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=muyiwa&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Ng1n3/github-readme-stats#gh-dark-mode-only)
-
-[![Muyiwa's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ng1n3&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/Ng1n3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muyiwa&hide=java,html,css,text&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&hide_progress=true" />
-</a>
 
 <!---
 Ng1n3/Ng1n3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
