@@ -1,6 +1,6 @@
 <h1 align="left"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hey there, I'm Muyiwa Olayinka </h1>
 
-I'm a software developer based in Lagos, Nigeria. I specialize in backend development,with a passion for solving complex solutions, building scalable and efficient systems with technologies like Nodejs, Go and cloud platforms such as AWS or Heroku. I’m always eager to stay ahead of the latest tech trends and apply them to deliver impactful solutions. I thrive on improving and optimizing already good systems to make them even more robust and performant. 
+I'm a software developer based in Lagos, Nigeria. I specialize in backend development,with a passion for solving complex solutions, building scalable and efficient systems with technologies like Nodejs, Go and cloud platforms such as AWS or Heroku. I thrive on improving and optimizing already good systems to make them even more robust and performant. 
 
 Currently, I’m open to backend development roles and collaborations. Feel free to explore my projects below and also checkout my articles.
 
