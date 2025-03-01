@@ -40,6 +40,7 @@ When I'm not coding, I write some tech articles to share a little insight into m
 ## Projects
 - [Notepod-Backend](https://github.com/Ng1n3/notepod-backend)
 - [Notepod-Frontend](https://github.com/Ng1n3/frontend-notepod.xyz)
+- [Go Loan Bank](https://github.com/Ng1n3/go-loan-app)
 
 ## &#x1f4c8; GitHub Stats
 
