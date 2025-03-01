@@ -36,6 +36,7 @@ Let's connect on [X](https://x.com/muyiwa_dev) or [LinkedIn](www.linkedin.com/in
 When I'm not coding, I write some tech articles to share a little insight into my work.
 
 - [Top VS Code Extensions as a beginner Web developer](https://medium.com/@muyiwa-dev/top-vs-code-extensions-as-a-beginner-web-developer-in-2023-269fe7e09abf)
+- Implementing the Repository Pattern in Go: A Practical Guide (__CURRENTLY UNDERWORKS__)
 
 ## Projects
 - [Notepod-Backend](https://github.com/Ng1n3/notepod-backend)
