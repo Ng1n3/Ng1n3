@@ -38,6 +38,7 @@ When I'm not coding, I write some tech articles to share a little insight into m
 - [Top VS Code Extensions as a beginner Web developer](https://medium.com/@muyiwa-dev/top-vs-code-extensions-as-a-beginner-web-developer-in-2023-269fe7e09abf)
 - [The Repository Pattern: A beginner's guide](https://medium.com/@muyiwa-dev/the-repository-pattern-ff87cde360ce)
 - [HTTP 201 vs 202, 401 vs 403 and 400 vs 422: When to Use Which and Why](https://muyiwa-dev.medium.com/http-201-vs-202-401-vs-403-and-400-vs-422-when-to-use-which-and-why-d0e0769d24ff)
+- [📡 From Click to Screen: How the Web Really Works](https://medium.com/@muyiwa-dev/from-click-to-screen-how-the-web-really-works-82af605e8978)
 - JWT Authentication using Private and Public Keys (__CURRENTLY UNDERWORKS__)
 
 ## Projects
